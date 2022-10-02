@@ -31,7 +31,7 @@ int main()
 	cout << "Введи целое число: ";
 	cin >> value1;
 
-	for (int i = 1; i < order1; ++i)
+	for (int i = 0; i < order1; ++i)
 	{
 		if (i % 8 == 0 || i == 1)
 		{
