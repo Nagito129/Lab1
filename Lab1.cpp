@@ -6,6 +6,7 @@ int main()
 	setlocale(0, "");
 
 	//Задание 1
+	
 	cout << "Задание 1\n";
 
 	cout << "int: " << sizeof (int) << "\n";
@@ -20,6 +21,7 @@ int main()
 
 
 	//Задание 2
+	
 	cout << "Задание 2\n";
 
 	int value1;
@@ -43,6 +45,7 @@ int main()
 
 
 	//Задание 3
+	
 	cout << "Задание 3\n";
 
 	union{
@@ -70,6 +73,7 @@ int main()
 
 
 	//Задание 4
+	
 	cout << "Задание 4\n";
 
 	union {
